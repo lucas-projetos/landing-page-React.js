@@ -1,4 +1,4 @@
-## Dev Stuy ##
+# <img src="src/assets/images/logo.svg" style="float: left; width: 121px"></h1> #
 
 ## Objetivo ##
 <p>Projeto desenvolvido em React.js com a intenção de apresentar os membros do Squad 17 da turma de sexta feira, do programa #TeuFuturo 2021, proporcionado pela Imed.</p>
